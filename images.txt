@@ -1,2 +1,2 @@
 jc21/nginx-proxy-manager
-php7.4
+louislam/uptime-kuma
