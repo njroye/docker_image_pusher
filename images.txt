@@ -4,3 +4,6 @@ php:7.4-fpm
 webpsh/webp-server-go
 docker.io/redis
 eclipse-mosquitto
+postgres
+registry.cn-hangzhou.aliyuncs.com/onlinejudge/oj_backend
+registry.cn-hangzhou.aliyuncs.com/onlinejudge/judge_server
