@@ -1,2 +1,5 @@
 jc21/nginx-proxy-manager
 louislam/uptime-kuma
+php:7.4-fpm
+webpsh/webp-server-go
+docker.io/redis
