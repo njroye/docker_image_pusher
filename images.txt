@@ -8,3 +8,8 @@ postgres
 registry.cn-hangzhou.aliyuncs.com/onlinejudge/oj_backend
 registry.cn-hangzhou.aliyuncs.com/onlinejudge/judge_server
 louislam/dockge:1
+dushixiang/next-terminal:latest
+dushixiang/guacd:latest
+yiminger/ymicp:yolo8_latest
+webpsh/webp-server-go
+mysql:5.7
