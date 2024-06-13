@@ -7,3 +7,4 @@ eclipse-mosquitto
 postgres
 registry.cn-hangzhou.aliyuncs.com/onlinejudge/oj_backend
 registry.cn-hangzhou.aliyuncs.com/onlinejudge/judge_server
+louislam/dockge:1
