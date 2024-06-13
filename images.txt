@@ -13,3 +13,4 @@ dushixiang/guacd:latest
 yiminger/ymicp:yolo8_latest
 webpsh/webp-server-go
 mysql:5.7
+centos
